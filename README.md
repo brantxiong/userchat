@@ -10,4 +10,5 @@
     FrontEnd --> nginx --> uwsgi --> django
 
 ### Design
+* Test
 
